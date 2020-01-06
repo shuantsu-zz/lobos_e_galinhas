@@ -11,6 +11,6 @@ Leve os três lobos e três galinhas para o lado direito do rio obedecendo as se
 
 Para pôr um animal no barco clique no animal. Para atravessar o rio, clique no barco. Você pode mover o barco quantas vezes quiser, mas o feito pode ser conseguido em apenas 11 movimentos.
 
-<kbd>![Lobos e galinhas](wolves.jpg)</kbd>
+<kbd>![Thumbnail](thumb.png)</kbd>
 
 https://shuantsu.github.io/lobos_e_galinhas
